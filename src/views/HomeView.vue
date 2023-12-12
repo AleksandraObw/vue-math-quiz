@@ -4,7 +4,7 @@
 
 <template>
   <div class="home">
-    <p class="home__greeting">Добро пожаловать! Сможешь ли ты решить все примеры кота-крипкота? Если не боишься - вперед!</p>
+    <p class="home__greeting">Добро пожаловать! Сможешь ли ты решить все примеры кота-криппера? Если не боишься - вперед!</p>
     <button class="home__button"><RouterLink to="/quiz" class="home__link">Старт!</RouterLink></button> 
   </div>
 </template>

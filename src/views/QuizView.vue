@@ -86,7 +86,7 @@
         <div class="quiz" v-else-if="isResultReady">
             <p class="text"> Ты правильно решил {{ correctAnswers }} из 10 примеров. {{ salutation }}</p>
             <button class="button" @click="startTheGame()">Пройти тест заново</button>
-            <p class="text">Твои последние результаты: {{ lastResults }}</p>
+            <p class="text">Последние результаты: {{ lastResults }}</p>
         </div>
 
         <div class="quiz" v-else>
