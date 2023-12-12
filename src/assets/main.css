@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap');
+
+  :root {
+    --light-green: #bae0bd;
+    --dark-green: #5e9c76;
+    --white: #F7F7FF;
+    --black: #071108;
+    --platinum: #EAEAEA;
+  }
+
+  html {
+    font-family: 'Nunito', Arial, Helvetica, sans-serif;
+  }
+
+  body {
+    background-color: var(--platinum);
+    position: relative;
+  }
