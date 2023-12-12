@@ -1,29 +1,14 @@
-# vue-math-quiz
+# Vue Math Quiz
 
-This template should help get you started developing with Vue 3 in Vite.
+Math quiz for children.
+Quiz for children of 6-7 years old. With subtraction and addition of numbers up to 20. It's my first project using Vue.
 
-## Recommended IDE Setup
+Математическое тестирование для детей. 
+Сложение и вычитание чисел до 20 для детей 6-7 лет. Сделано для первоклассника, который что-то стал забивать на математику)
+Первый проект на Vue, "зондирование почвы")  
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
++ *[View it in action on vercel.com](https://vue-math-quiz.vercel.app/)*
++ *[View code](https://github.com/AleksandraObw/vue-math-quiz/tree/main)*
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+![Screenshot](https://github.com/AleksandraObw/vue-math-quiz/blob/main/public/screen1.png)
+![Screenshot](https://github.com/AleksandraObw/vue-math-quiz/blob/main/public/screen2.png)
